@@ -1,4 +1,5 @@
-Projeto desenvolvido em PHP para prática de lógica de programação e interação via terminal.
+Sistema bancário em PHP executado via terminal para prática de lógica de programação e validação de operações financeiras.
+
 O sistema simula um pequeno sistema bancário executado no terminal, permitindo consultar saldo, realizar saques e depósitos por meio de um menu interativo.
 
 📋 Funcionalidades
