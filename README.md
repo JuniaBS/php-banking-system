@@ -1,6 +1,6 @@
-Um pequeno projeto em PHP que simula um sistema bancário executado no terminal.
+Projeto desenvolvido em PHP para prática de lógica de programação e interação via terminal.
 
-O objetivo do projeto é praticar conceitos fundamentais de programação em PHP, como estruturas de repetição, condicionais, manipulação de entrada de dados via STDIN e organização de lógica de negócio.
+O sistema simula um pequeno sistema bancário executado no terminal, permitindo consultar saldo, realizar saques e depósitos por meio de um menu interativo.
 
 📋 Funcionalidades
 
